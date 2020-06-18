@@ -173,7 +173,7 @@
             },
             {
                 "id": 7,
-                "image": "/img/blog_7.jpg",
+                "image": "/img/blog_1.jpg",
                 "author": "Md. Arham",
                 "date": "Feb 05, 2019",
                 "title": "Blog Title Here",
@@ -182,7 +182,7 @@
             },
             {
                 "id": 8,
-                "image": "/img/blog_8.jpg",
+                "image": "/img/blog_2.jpg",
                 "author": "Junaid Hasan",
                 "date": "Sep 24, 2019",
                 "title": "Blog Title Here",
@@ -191,7 +191,7 @@
             },
             {
                 "id": 9,
-                "image": "/img/blog_9.jpg",
+                "image": "/img/blog_3.jpg",
                 "author": "Johson Smith",
                 "date": "Feb 05, 2020",
                 "title": "Blog Title Here",
